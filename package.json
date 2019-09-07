@@ -1,0 +1,18 @@
+{
+  "name": "mvc-example-nodejs",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "https://github.com/kultism/mvc-example-nodejs.git",
+  "author": "Bogdan Volyk <nani@omaewamoushindei.ru>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.6.13"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.2"
+  }
+}
